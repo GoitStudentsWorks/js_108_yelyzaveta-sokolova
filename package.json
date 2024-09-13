@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CAT-Coding-and-Training/",
+    "build": "vite build --base=/js_108_yelyzaveta-sokolova/",
     "preview": "vite preview"
   },
   "devDependencies": {
